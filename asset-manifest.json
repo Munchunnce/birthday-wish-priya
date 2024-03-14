@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/birthday-wish-priya/static/css/main.9756e3cb.css",
+    "main.js": "/birthday-wish-priya/static/js/main.8d2eabaa.js",
+    "static/js/453.6ef0ff22.chunk.js": "/birthday-wish-priya/static/js/453.6ef0ff22.chunk.js",
+    "index.html": "/birthday-wish-priya/index.html",
+    "main.9756e3cb.css.map": "/birthday-wish-priya/static/css/main.9756e3cb.css.map",
+    "main.8d2eabaa.js.map": "/birthday-wish-priya/static/js/main.8d2eabaa.js.map",
+    "453.6ef0ff22.chunk.js.map": "/birthday-wish-priya/static/js/453.6ef0ff22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9756e3cb.css",
+    "static/js/main.8d2eabaa.js"
+  ]
+}
